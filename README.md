@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash chaugule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash chaugule" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@y8689909799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@y8689909799" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@y868990979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="y8689909799" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
